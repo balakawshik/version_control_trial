@@ -1,1 +1,1 @@
-This is the new file that is get ready for repo upload.
+This is the new file that is get ready for repo upload. some news has to be added to develop branch.
